@@ -1,0 +1,14 @@
+<movies>
+    <movie>
+        <id>1</id>
+        <name>Alien</name>
+        <year>1979</year>
+        <country>USA</country>
+        <genres>
+            <id>1</id>
+            <name>Action</name>
+            <id>2</id>
+            <name>Horror</name>
+        </genres>
+    </movie>
+</movies>
